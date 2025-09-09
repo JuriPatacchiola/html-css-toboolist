@@ -163,3 +163,25 @@ background-color: white;
      color: white;
      font-size: 12px;
 }
+
+.special-color5{
+    background-color: #EC4A9D;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     padding-left: 12px;
+     padding-right: 12px;
+     border-radius: 12px;
+     color: white;
+     font-size: 12px;
+}
+
+.special-color6{
+    background-color: #A3D116;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     padding-left: 12px;
+     padding-right: 12px;
+     border-radius: 12px;
+     color: white;
+     font-size: 12px;
+}
