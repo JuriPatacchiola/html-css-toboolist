@@ -25,11 +25,6 @@ background-color: white;
     font-family: "Cossette Titre", sans-serif;
 }
 
-
-
-main{
-
-}
 .button-active{
     background-color: #14AAF5;
     width: 100px;
@@ -81,5 +76,24 @@ main{
 }
 
 .elenc-task{
-    
+    vertical-align: middle;
+    background-color: white;
+    margin-left: 120px;
+    width: 80%;
+     padding-left:40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.new-task-text{
+    font-size: 20px;
+    vertical-align: middle;
+    font-family: "Cossette Titre", sans-serif;
+}
+
+.arrow{ 
+    font-size: 12px;     
+    display: inline-block;
+    transform: scaleX(1.5); 
+    margin-right: 5px;
 }
