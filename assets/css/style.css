@@ -24,3 +24,62 @@ background-color: white;
     vertical-align: middle;
     font-family: "Cossette Titre", sans-serif;
 }
+
+
+
+main{
+
+}
+.button-active{
+    background-color: #14AAF5;
+    width: 100px;
+    text-align: center;
+    border-radius: 12px; 
+}
+
+.button-disable{
+    border: 2px solid gray;
+    width: 100px;
+    text-align: center;
+    border-radius: 12px; 
+}
+
+.inside-button-active{
+    color: white;
+    margin: 0px;
+    padding: 8px;
+}
+
+.inside-button-disable{
+    margin: 0px;
+    padding: 8px;
+    color: gray;
+}
+.button-inline{
+    vertical-align: middle;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 120px;
+    align-items: center;
+    width: 80%;
+    border-radius: 10px 10px 0 0;
+    padding-left:40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom:1px solid #F6F8F9 ;
+}
+
+.button-inline {
+  display: flex;
+  gap: 1rem; 
+}
+
+.button-active,
+.button-disable {
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.elenc-task{
+    
+}
