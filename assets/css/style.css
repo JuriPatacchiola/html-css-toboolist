@@ -1,0 +1,26 @@
+
+
+body{
+    margin: 0px;
+    background-color: #F6F8F9;
+}
+
+header{
+background-color: white;
+
+}
+
+
+
+.logo-name{
+    vertical-align: middle;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.font-big{
+    font-size: 40px;
+    vertical-align: middle;
+    font-family: "Cossette Titre", sans-serif;
+}
