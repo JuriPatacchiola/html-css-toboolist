@@ -3,6 +3,7 @@
 body{
     margin: 0px;
     background-color: #F6F8F9;
+    font-family: "Cossette Titre", sans-serif;
 }
 
 header{
@@ -96,4 +97,24 @@ background-color: white;
     display: inline-block;
     transform: scaleX(1.5); 
     margin-right: 5px;
+}
+
+.color-ceck{
+    color: #2DC6AB;
+    border: 2px solid #2DC6AB;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 8px;
+    margin-right: 8px;
+}
+
+.special-color1{
+     background-color: #14AAF5;
+     padding-top: 4px;
+     padding-bottom: 4px;
+     padding-left: 12px;
+     padding-right: 12px;
+     border-radius: 12px;
+     color: white;
+     font-size: 12px;
 }
